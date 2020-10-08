@@ -2,7 +2,7 @@
     This code takes in values from a Nintendo Nunchuck and makes a DJI Ronin
     respond accordingly.
 
-    Code modified by Micah Wagoner. Questions? (269) 556 - 5118
+    Code modified by Micah Wagoner.
 
     Code based off of user "Sminkly" on the DJI Forum: https://forum.dji.com/thread-167232-1-1.html
     Code changed to overcome errors and suit needs. WiiChuck Library has been modified to remove all
