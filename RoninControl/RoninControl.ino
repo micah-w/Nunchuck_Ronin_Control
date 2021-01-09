@@ -18,7 +18,7 @@
        - YELLOW: A5
      - Ronin
        - TOP (BLACK): GROUND
-       - MIDDLE (RED): VCC
+       - MIDDLE (RED): VIN
        - BOTTOM (WHITE): TX
 */
 
